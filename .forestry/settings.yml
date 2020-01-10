@@ -12,6 +12,10 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
+- type: document
+  path: https://snipcart.com
+  label: Snipcart
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
